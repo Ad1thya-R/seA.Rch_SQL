@@ -1,6 +1,7 @@
 # seA.Rch_SQL
 
-
+Uses Google programmable search engine API to scrape web for results. Filtered and ranked results with SQL queries based on sentence length and
+vocabulary used. Built web application on Flask to display search engine’s functionality
 
 File overview:
 
